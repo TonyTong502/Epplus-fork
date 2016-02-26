@@ -297,7 +297,6 @@ namespace OfficeOpenXml.Drawing.Chart
         }
 
         //TODO: the linecolor copied from ExcelLineChartSerie.cs . may not work.need to testing.
-
         //new properties for excel line charts: LineColor, MarkerSize, LineWidth and MarkerLineColor 
         //implemented according to https://epplus.codeplex.com/discussions/287917
         string LINECOLOR_PATH = "c:spPr/a:ln/a:solidFill/a:srgbClr/@val";
